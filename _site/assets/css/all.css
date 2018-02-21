@@ -1335,24 +1335,10 @@ header .kicker {
       color: #990099; }
     header h1 {
       padding-top: 0px; } }
-.socialtop {
-  margin-top: 3%;
-  float: right;
-  overflow: hidden; }
-
 .toplogo {
-  width: 25%;
+  width: 35%;
   margin-top: 4%;
-  margin-bottom: 4%;
-  margin-left: 10%; }
-
-.topsocialiconfirst {
-  width: 8%;
-  margin-left: 8%; }
-
-.topsocialicon {
-  width: 8%;
-  margin-left: 8%; }
+  margin-bottom: 4%; }
 
 .socialicons {
   margin-bottom: 2%;
@@ -1496,30 +1482,16 @@ header .kicker {
     width: 32%; } }
 @media (min-width: 1150px) {
   .toplogo {
-    width: 18%;
+    width: 13%;
     margin-top: 2%; }
 
-  .socialicons {
-    margin-bottom: 2%;
-    margin-top: 2.5%; }
-
-  .socialiconfirst {
-    width: 2.75%; }
-
-  .socialicon {
-    width: 2.75%;
-    margin-left: 1%; }
+  .video-responsive iframe {
+    left: 30%;
+    top: 0;
+    height: 40%;
+    width: 40%;
+    position: absolute; }
 
   .pleaseshare {
-    margin-top: 1%;
-    width: 20%; }
-
-  .sharesocialicons {
-    margin-bottom: 5%; }
-
-  .sharesocialiconfirst {
-    width: 4%; }
-
-  .sharesocialicon {
-    margin-left: 4%;
-    width: 4%; } }
+    width: 25%;
+    margin-top: -35%; } }
