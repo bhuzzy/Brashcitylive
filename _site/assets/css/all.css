@@ -609,64 +609,11 @@ section:nth-child(odd) {
   section:nth-child(odd) h3 {
     color: #9e0079; }
 
-h3, header nav a, header .kicker, footer .lockup .content-wrap a {
+h3, footer .lockup .content-wrap a, header nav a, header .kicker {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase; }
 
-header .logo {
-  height: 50px;
-  width: 50px;
-  float: left;
-  margin: 10px 0 0 30px; }
-  header .logo path {
-    fill: rgba(255, 255, 255, 0.1); }
-header nav {
-  float: right;
-  padding: 30px 30px 0 0;
-  margin: 0 auto; }
-  header nav a {
-    display: inline-block;
-    margin-left: 20px;
-    color: rgba(0, 0, 0, 0.9); }
-    header nav a:hover {
-      color: black; }
-header h1 {
-  text-align: center;
-  font-size: 72px;
-  font-weight: 700;
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom: 20px;
-  clear: both;
-  padding-top: 100px; }
-  header h1 span {
-    display: inline-block;
-    padding: 0.2em 0.5em;
-    border: white solid 10px; }
-header .kicker {
-  text-align: center;
-  letter-spacing: 0.05em;
-  color: white;
-  line-height: 1; }
-
-@media (max-width: 640px) {
-  header {
-    background-position: 20% 20px, 50% 50%; }
-    header nav {
-      float: none;
-      text-align: center;
-      padding-top: 40px; }
-    header nav a {
-      margin-top: 20px;
-      margin-left: 50px;
-      background-color: black;
-      padding: 10px; }
-    header nav a:hover {
-      color: #990099; }
-    header h1 {
-      padding-top: 0px; } }
 footer .lockup {
   padding: 50px 30px; }
   footer .lockup:after {
@@ -1334,3 +1281,143 @@ li {
 
 li h4 a {
   color: black; }
+
+header .logo {
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin: 10px 0 0 30px; }
+  header .logo path {
+    fill: rgba(255, 255, 255, 0.1); }
+header nav {
+  float: right;
+  padding: 30px 30px 0 0;
+  margin: 0 auto; }
+  header nav a {
+    display: inline-block;
+    margin-left: 20px;
+    color: rgba(0, 0, 0, 0.9); }
+    header nav a:hover {
+      color: black; }
+header h1 {
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 20px;
+  clear: both;
+  padding-top: 100px; }
+  header h1 span {
+    display: inline-block;
+    padding: 0.2em 0.5em;
+    border: white solid 10px; }
+header .kicker {
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: white;
+  line-height: 1; }
+
+@media (max-width: 640px) {
+  header {
+    background-position: 20% 20px, 50% 50%; }
+    header nav {
+      float: none;
+      text-align: center;
+      padding-top: 40px; }
+    header nav a {
+      margin-top: 20px;
+      margin-left: 50px;
+      background-color: black;
+      padding: 10px; }
+    header nav a:hover {
+      color: #990099; }
+    header h1 {
+      padding-top: 0px; } }
+.toplogo {
+  width: 85%;
+  margin-top: 6%; }
+
+.socialicons {
+  margin-bottom: 2%;
+  margin-top: 4%; }
+
+.socialiconfirst {
+  width: 12%; }
+
+.socialicon {
+  width: 12%;
+  margin-left: 5%; }
+
+.pleaseshare {
+  margin-top: 3%;
+  width: 83%; }
+
+.sharesocialicons {
+  margin-bottom: 5%; }
+
+.sharesocialiconfirst {
+  width: 15%; }
+
+.sharesocialicon {
+  margin-left: 5%;
+  width: 15%; }
+
+@media (min-width: 600px) {
+  .toplogo {
+    width: 60%;
+    margin-top: 5%; }
+
+  .socialicons {
+    margin-bottom: 2%;
+    margin-top: 4%; }
+
+  .socialiconfirst {
+    width: 9%; }
+
+  .socialicon {
+    width: 9%;
+    margin-left: 3%; }
+
+  .pleaseshare {
+    margin-top: 3%;
+    width: 60%; } }
+@media (min-width: 768px) {
+  .toplogo {
+    width: 45%;
+    margin-top: 3.5%; }
+
+  .socialicons {
+    margin-bottom: 2%;
+    margin-top: 4%; }
+
+  .socialiconfirst {
+    width: 6%; }
+
+  .socialicon {
+    width: 6%;
+    margin-left: 4%; }
+
+  .pleaseshare {
+    margin-top: 3%;
+    width: 50%; } }
+@media (min-width: 900px) {
+  .toplogo {
+    width: 35%;
+    margin-top: 3%; }
+
+  .socialicons {
+    margin-bottom: 2%;
+    margin-top: 4%; }
+
+  .socialiconfirst {
+    width: 5%; }
+
+  .socialicon {
+    width: 5%;
+    margin-left: 2.5%; }
+
+  .pleaseshare {
+    margin-top: 3%;
+    width: 35%; } }
