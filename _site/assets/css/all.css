@@ -1352,18 +1352,18 @@ header .kicker {
   margin-left: 5%; }
 
 .pleaseshare {
-  width: 40%;
+  width: 25%;
   margin-top: -5%; }
 
 .sharesocialicons {
   margin-bottom: 5%; }
 
 .sharesocialiconfirst {
-  width: 12%; }
+  width: 7%; }
 
 .sharesocialicon {
   margin-left: 5%;
-  width: 12%; }
+  width: 7%; }
 
 .video-responsive {
   overflow: hidden;
@@ -1379,7 +1379,7 @@ header .kicker {
   position: absolute; }
 
 .goto {
-  width: 30%;
+  width: 25%;
   margin-top: -5%; }
 
 @media (min-width: 500px) {
