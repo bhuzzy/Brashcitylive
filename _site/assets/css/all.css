@@ -1336,9 +1336,10 @@ header .kicker {
     header h1 {
       padding-top: 0px; } }
 .toplogo {
-  width: 35%;
+  width: 28%;
   margin-top: 4%;
-  margin-bottom: 4%; }
+  margin-bottom: 4%;
+  margin-left: 10%; }
 
 .socialicons {
   margin-bottom: 2%;
