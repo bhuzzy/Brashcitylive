@@ -1,0 +1,18 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "brashcitylogo.svg"
+hero: "brashcitylogo.svg"
+avatar: "blakebrown.jpg"
+
+# Colors
+
+accent: "#990099"
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
+
