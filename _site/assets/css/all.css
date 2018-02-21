@@ -1496,5 +1496,30 @@ header .kicker {
     width: 32%; } }
 @media (min-width: 1150px) {
   .toplogo {
-    width: 13%;
-    margin-top: 2%; } }
+    width: 18%;
+    margin-top: 2%; }
+
+  .socialicons {
+    margin-bottom: 2%;
+    margin-top: 2.5%; }
+
+  .socialiconfirst {
+    width: 2.75%; }
+
+  .socialicon {
+    width: 2.75%;
+    margin-left: 1%; }
+
+  .pleaseshare {
+    margin-top: 1%;
+    width: 20%; }
+
+  .sharesocialicons {
+    margin-bottom: 5%; }
+
+  .sharesocialiconfirst {
+    width: 4%; }
+
+  .sharesocialicon {
+    margin-left: 4%;
+    width: 4%; } }
