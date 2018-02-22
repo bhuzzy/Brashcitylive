@@ -1342,33 +1342,35 @@ header .kicker {
 
 .socialicons {
   margin-bottom: 20px;
-  margin-top: 50px; }
+  margin-top: 50px;
+  max-width: 600px; }
 
 .socialiconfirst {
   width: 30px; }
 
 .socialicon {
   width: 30px;
-  margin-left: 20px; }
+  margin-left: 10%; }
 
 .pleaseshare {
   width: 350px;
   margin-top: 30px; }
 
 .charity {
-  width: 200px;
-  margin-top: 15px; }
+  width: 160px;
+  margin-top: 15px;
+  margin-left: -17px; }
 
 .sharesocialicons {
   margin-top: 20px;
   margin-bottom: 50px; }
 
 .sharesocialiconfirst {
-  width: 70px; }
+  width: 60px; }
 
 .sharesocialicon {
-  margin-left: 50px;
-  width: 70px; }
+  margin-left: 40px;
+  width: 60px; }
 
 @media (max-width: 420px) {
   .toplogo {
@@ -1385,7 +1387,7 @@ header .kicker {
 
   .socialicon {
     width: 22.5px;
-    margin-left: 15px; }
+    margin-left: 12%; }
 
   .pleaseshare {
     width: 262.5px;
