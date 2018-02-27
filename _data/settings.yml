@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: BRASHCITY EMPIRE.
+title: BRASHCITY
 blog-title: BRASHCITY
-description: SHOCK THE WORLD! Dare Devils who believe their city is too soft bring a little brashness to the mix.
+description: SHOCKING THE WORLD WITH STIMULATING ENTERTAINMENT!
 email: Futuristicdigital01@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -37,7 +37,7 @@ blogmenu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'World's best entertainment'
+  description: 'World's most shocking entertainment'
   rel-author: 'https://www.facebook.com/brashcity'
   rel-publisher: 'https://www.facebook.com/brashcity'
 
