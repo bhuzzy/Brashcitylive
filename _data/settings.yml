@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: BRASHCITY EMPIRE.
+title: BRASHCITY
 blog-title: BRASHCITY
-description: SHOCK THE WORLD! Dare Devils who believe their city is too soft bring a little brashness to the mix.
+description: World's most shocking entertainment.
 email: Futuristicdigital01@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -37,7 +37,7 @@ blogmenu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Best Marketing in Greenville NC, SEO, webdesign, video commercials, social media management, logos and anything else'
+  description: 'Worlds most shocking entertainment.'
   rel-author: 'https://www.facebook.com/blake.hudson.52'
   rel-publisher: 'https://www.facebook.com/blake.hudson.52'
 
