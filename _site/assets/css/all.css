@@ -1282,6 +1282,10 @@ li {
 li h4 a {
   color: black; }
 
+body {
+  max-width: 362px;
+  margin: 0 auto; }
+
 .toplogo {
   width: 100px;
   margin-top: 25px;
