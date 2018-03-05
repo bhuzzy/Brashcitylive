@@ -1282,41 +1282,48 @@ li {
 li h4 a {
   color: black; }
 
-header .toplogo {
-  background-image: url("../assets/img/brashcitylogo19.svg");
+.toplogo {
   width: 100px;
   margin-top: 25px;
   margin-bottom: 25px; }
-header .socialicons {
+
+.socialicons {
   margin-bottom: 20px;
   margin-top: 50px;
   max-width: 600px; }
-header .socialiconfirst {
+
+.socialiconfirst {
   width: 30px; }
-header .socialicon {
+
+.socialicon {
   width: 30px;
   margin-left: 10%; }
-header .pleaseshare {
+
+.pleaseshare {
   width: 350px;
   margin-top: 30px; }
-header .charity {
+
+.charity {
   width: 160px;
   margin-top: 15px;
   margin-left: -17px; }
-header .sharesocialicons {
+
+.sharesocialicons {
   margin-top: 30px;
   margin-bottom: 50px; }
-header .sharesocialiconfirst {
+
+.sharesocialiconfirst {
   width: 60px; }
-header .sharesocialicon {
+
+.sharesocialicon {
   margin-left: 40px;
   width: 60px; }
-header .twittershare {
+
+.twittershare {
   margin-top: 30px; }
 
 @media (max-width: 420px) {
   .toplogo {
-    background-image: url("../img/brashcitylogo19.svg");
     width: 75px;
     margin-top: 18px;
     margin-bottom: 18px; }
