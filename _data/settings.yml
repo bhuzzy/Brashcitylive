@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: BRASHCITY
-blog-title: BRASHCITY
-description: World's most shocking entertainment.
+title: Brashcity | Entertainment
+blog-title: WALMART HEIST ALERT! - MONKEY ON MOTORCYCLE
+description: Hilarious Walmart heisted by monkey on motorcycle.
 email: Futuristicdigital01@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -37,9 +37,9 @@ blogmenu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Worlds most shocking entertainment.'
-  rel-author: 'https://www.facebook.com/blake.hudson.52'
-  rel-publisher: 'https://www.facebook.com/blake.hudson.52'
+  description: 'This is Hilarious! Great Cause too! Watch!'
+  rel-author: 'https://www.facebook.com/brashcity'
+  rel-publisher: 'https://www.facebook.com/brashcity'
 
 #-------------------------------
 # Google Analytics Section
